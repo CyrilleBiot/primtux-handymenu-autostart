@@ -1,0 +1,3 @@
+source/handymenu-mini.desktop			home/01-mini/.config/autostart/
+source/handymenu-super.desktop			home/02-super/.config/autostart/
+source/handymenu-maxi.desktop 			home/03-maxi/.config/autostart/

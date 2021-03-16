@@ -1,0 +1,12 @@
+Source: primtux-handymenu-autostart
+Section: misc
+Priority: extra
+Maintainer: Cyrille Biot <cyrille@cbiot.fr>
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/CyrilleBiot/primtux-handymenu-autostart
+
+Package: primtux-handymenu-autostart
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Homepage: https://github.com/CyrilleBiot/primtux-handymenu-autostart
+Description: Lancer les handymenu sur les sessions mini, super, maxi. Primtux.

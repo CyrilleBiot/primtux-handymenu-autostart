@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=handymenu-mini
+Exec=/usr/local/bin/primtux/handymenu-mini
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
