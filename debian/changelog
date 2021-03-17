@@ -1,3 +1,9 @@
+primtux-handymenu-autostart (1.1) UNRELEASED; urgency=medium
+
+  * Typo & postinstall 
+
+ -- Cyrille Biot <cyrille@cbiot.fr>  Wed, 17 Mar 2021 18:27:48 +0100
+
 primtux-handymenu-autostart (1.0) unstable; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)

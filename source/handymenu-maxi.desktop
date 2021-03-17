@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=handymenu-maxy
+Name=handymenu-maxi
 Exec=/usr/local/bin/primtux/handymenu-maxi
 Terminal=false
 Type=Application

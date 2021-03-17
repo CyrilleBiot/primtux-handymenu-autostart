@@ -1,12 +1,3 @@
 #!/bin/bash
-chown 01-mini:01-mini /home/01-mini/.config/autostart/handymenu-mini.desktop
-chown 02-super:02-super /home/02-super/.config/autostart/handymenu-super.desktop
-chown 03-maxi:03-maxi /home/03-maxi/.config/autostart/handymenu-maxy.desktop
-
-ls -l /home/01-mini/.config/autostart/handymenu-mini.desktop
-ls -l /home/02-super/.config/autostart/handymenu-super.desktop
-ls -l /home/03-maxi/.config/autostart/handymenu-maxy.desktop
-
 echo "Lanceurs installés avec succès."
-
 exit 0
