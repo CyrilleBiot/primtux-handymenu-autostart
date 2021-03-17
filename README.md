@@ -1,5 +1,6 @@
 # primtux-handymenu-autostart
 Démarrage automatique des  handymenu pour Primtux sur les sessions mini, super et maxi.
+Pour primtux XFCE mais fonctionne également pour tous les DM.
 
 ## Installation
 
