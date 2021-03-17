@@ -6,7 +6,7 @@ Pour primtux XFCE mais fonctionne également pour tous les DM.
 
 ```
 wget https://github.com/CyrilleBiot/primtux-handymenu-autostart/raw/main/primtux-handymenu-autostart_1.0_all.deb
-dpkg -i primtux-handymenu-autostart_1.0_all.deb
+dpkg -i primtux-handymenu-autostart_1.1_all.deb
 ```
 
 ## Suppression
